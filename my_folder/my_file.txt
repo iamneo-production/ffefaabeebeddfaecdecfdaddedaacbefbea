@@ -1,1 +1,0 @@
-echo "How are you"
